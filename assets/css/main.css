@@ -272,7 +272,7 @@ h6 {
   font-size: 16px;
   font-weight: 400;
   display: flex;
-  align-items: center;
+  align-items: right;
   white-space: nowrap;
   transition: 0.3s;
   width: 100%;
