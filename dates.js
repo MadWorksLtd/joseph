@@ -12,7 +12,7 @@ function calculateAge(birthDate) {
 }  
 
 function updateAge() {  
-    const birthDate = new Date(2007, 8, 20); // Month is 0-indexed (September is 8)  
+    const birthDate = new Date(2003, 8, 18); // Month is 0-indexed (September is 8)  
     const ageDisplay = document.getElementById('ageDisplay');  
     const age = calculateAge(birthDate);  
     ageDisplay.textContent = age;  
