@@ -1,6 +1,3 @@
-compose a readme text
-Sure! Here’s a draft for the README file for Joseph Kalyango’s portfolio website:
-
 Joseph Kalyango - Portfolio
 About Me
 Hello! I am Joseph Kalyango, a passionate and dedicated professional with a diverse skill set encompassing graphic design, debate leadership, legal studies, public speaking, and service provision. My journey has been driven by creativity, leadership, and a commitment to making a positive impact in my community.
